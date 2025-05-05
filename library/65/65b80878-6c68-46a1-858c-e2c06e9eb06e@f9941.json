@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ball_green_5",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 73,
+      "height": 76
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 73,
+      "height": 76
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -36.5,
+        -38,
+        0,
+        36.5,
+        -38,
+        0,
+        -36.5,
+        38,
+        0,
+        36.5,
+        38,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        76,
+        73,
+        76,
+        0,
+        0,
+        73,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -36.5,
+        "y": -38,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 36.5,
+        "y": 38,
+        "z": 0
+      }
+    },
+    "texture": "65b80878-6c68-46a1-858c-e2c06e9eb06e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

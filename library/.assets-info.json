@@ -1,0 +1,2226 @@
+{
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations": {
+    "time": 1746419455000,
+    "uuid": "9747b90e-a4be-4275-8fb0-2b7271abac62",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios": {
+    "time": 1746419455000,
+    "uuid": "96416ed3-6870-402b-9f2c-1cbc3180e996",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts": {
+    "time": 1746419448000,
+    "uuid": "cdd399f6-8a8d-436c-bbcd-60eb15ac145d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Prefabs": {
+    "time": 1746419455000,
+    "uuid": "91758ed2-86ff-4616-87ff-26e808db2873",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo": {
+    "time": 1746419455000,
+    "uuid": "5f0ecb78-ea1f-49aa-82df-3f6ccdeec1f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes": {
+    "time": 1746419448000,
+    "uuid": "253353f8-54b1-4886-a34f-d346c8d090e1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts": {
+    "time": 1746420088000,
+    "uuid": "0c16f4a0-5d9c-40e5-9a8a-9818dc6cd06d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites": {
+    "time": 1746419448000,
+    "uuid": "f1c17416-aef4-487f-9318-255581a975af",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export": {
+    "time": 1746419455000,
+    "uuid": "a1f647c0-25f1-4f84-8a1c-be388b47bd05",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataUser": {
+    "time": 1746419455000,
+    "uuid": "bd04d5c8-1978-41a7-bd59-168ed1704cd7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Loading": {
+    "time": 1746419782000,
+    "uuid": "0ab5cf3e-2774-4199-9ab4-354920d16344",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Splash": {
+    "time": 1746419455000,
+    "uuid": "cd64e2b1-d72b-44b0-8749-a6aafe6b6edc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataType.ts": {
+    "time": 1746469791424.6643,
+    "uuid": "2a5aa0c6-7700-4d0e-afc9-84385ead85c2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameController.ts": {
+    "time": 1746470460451.0913,
+    "uuid": "6e551075-1323-4973-9377-ee30bbef1d73",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameModel.ts": {
+    "time": 1746469791425.157,
+    "uuid": "a2ee25b7-e32a-4d5c-a89d-7960e0c248b8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameView.ts": {
+    "time": 1746469791425.326,
+    "uuid": "208ab965-1cd4-4e61-a8c7-5d35c8807304",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuController.ts": {
+    "time": 1746470102068.2957,
+    "uuid": "64258366-a52a-48ea-ab7e-55815d2bed38",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuModel.ts": {
+    "time": 1746469791425.7805,
+    "uuid": "d530f9a9-29ca-4cd2-89ae-1812bf434f7c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuView.ts": {
+    "time": 1746469791425.8867,
+    "uuid": "9dc867d3-1e10-4de3-bfcf-7142aa884cef",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/StoredAPI.ts": {
+    "time": 1746469791426.1897,
+    "uuid": "13041a3d-aa45-4fd4-8a6d-610129f179fd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataUser/DataGame.ts": {
+    "time": 1746469791424.8481,
+    "uuid": "5550dbd9-2501-4863-9b96-4abbd98033d5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Loading/Controller.ts": {
+    "time": 1746470141092.0608,
+    "uuid": "b9fd9048-b92a-445c-a9aa-be357e7bd06f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Splash/Controller.ts": {
+    "time": 1746469791426.0884,
+    "uuid": "0f38a304-9b12-4b6f-9654-319098550b7a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations.meta": {
+    "time": 1746469791417.0999
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios.meta": {
+    "time": 1746469791418.2808
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts.meta": {
+    "time": 1746469791421.0762
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Prefabs.meta": {
+    "time": 1746469791421.7263
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo.meta": {
+    "time": 1746469791421.9304
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes.meta": {
+    "time": 1746469791423.6604
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts.meta": {
+    "time": 1746469791424.5237
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites.meta": {
+    "time": 1746469791426.3003
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export.meta": {
+    "time": 1746469791422.012
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataUser.meta": {
+    "time": 1746469791424.7656
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Loading.meta": {
+    "time": 1746469791425.438
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Splash.meta": {
+    "time": 1746469791425.9937
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataType.ts.meta": {
+    "time": 1746469791424.7175
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameController.ts.meta": {
+    "time": 1746469791425.0615
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameModel.ts.meta": {
+    "time": 1746469791425.2246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/GameView.ts.meta": {
+    "time": 1746469791425.384
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuController.ts.meta": {
+    "time": 1746469791425.7297
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuModel.ts.meta": {
+    "time": 1746469791425.8352
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/MenuView.ts.meta": {
+    "time": 1746469791425.939
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/StoredAPI.ts.meta": {
+    "time": 1746469791426.246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/DataUser/DataGame.ts.meta": {
+    "time": 1746469791424.9004
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Loading/Controller.ts.meta": {
+    "time": 1746469791425.5837
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scripts/Splash/Controller.ts.meta": {
+    "time": 1746469791426.1387
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/BlueAnim.anim": {
+    "time": 1746469791417.1965,
+    "uuid": "07c6258a-c13a-47d4-8fef-e4369940776e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/BrownAnim.anim": {
+    "time": 1746469791417.3044,
+    "uuid": "1feefa2e-ab48-4537-872f-2e3d634ddcbd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/GreenAnim.anim": {
+    "time": 1746469791417.4077,
+    "uuid": "744a3dc7-d454-40dd-b7ff-40d0e1016591",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/LoadingAnim.anim": {
+    "time": 1746469791417.5483,
+    "uuid": "3d1ad271-32e0-405c-a35c-6bc809d2f4e6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/OrangeAnim.anim": {
+    "time": 1746469791417.6504,
+    "uuid": "0951a793-b4b8-4599-95b3-4cb8e81935dd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/PinkAnim.anim": {
+    "time": 1746469791417.752,
+    "uuid": "56fad3af-3473-454b-89d6-e028b4b34971",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/SAReveal.anim": {
+    "time": 1746469791417.8572,
+    "uuid": "e0f28819-5904-4ecd-b6b2-090a0238a39f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/SettingTableAnim.anim": {
+    "time": 1746469791417.9954,
+    "uuid": "18b42fce-4f6c-4e11-b52c-19aa60943618",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/YellowAnim.anim": {
+    "time": 1746469791418.089,
+    "uuid": "d4b08f32-10aa-44bc-8e7f-e0ac795a947e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/ballNodeAnim.anim": {
+    "time": 1746469791418.1892,
+    "uuid": "b5bd877a-3e9d-45f4-a6c7-07144c6bee57",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_hits_bubble.mp3": {
+    "time": 1746469791418.4836,
+    "uuid": "9675a256-716e-4392-9ffb-91bf35f85282",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_hits_wall.mp3": {
+    "time": 1746469791418.6177,
+    "uuid": "dbaf060f-ba60-41b1-9ab3-79836dc8d266",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_1.mp3": {
+    "time": 1746469791418.7612,
+    "uuid": "02b37713-2b8c-4734-ad42-0302d372af16",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_2.mp3": {
+    "time": 1746469791418.9128,
+    "uuid": "9d9e8797-e382-4541-a688-82e32d5e9a47",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_3.mp3": {
+    "time": 1746469791419.0322,
+    "uuid": "92208f4e-876d-4b9e-b685-a527bd9da793",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/button_click.mp3": {
+    "time": 1746469791419.1824,
+    "uuid": "948ccb0f-7873-4eff-85ab-27daffb5cef3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/click.mp3": {
+    "time": 1746469791419.3264,
+    "uuid": "9993b327-4ab6-43dd-91c3-9a1fe5f03e80",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/lost.mp3": {
+    "time": 1746469791419.4946,
+    "uuid": "813e9384-a4a3-4485-a52f-4d1c4c9fa8fa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/music.mp3": {
+    "time": 1746469791420.66,
+    "uuid": "a61cf186-bd4e-4903-bd23-daf37ab0596a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/shoot_bubble.mp3": {
+    "time": 1746469791420.7798,
+    "uuid": "0c0d2180-1c84-4423-989e-e27b1e1ba020",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/won.mp3": {
+    "time": 1746469791420.9624,
+    "uuid": "aaf6f802-f362-47b9-a50c-9f0a8387eded",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts/SpeedRush-JRKVB.ttf": {
+    "time": 1746469791421.25,
+    "uuid": "28bcbe0e-1565-4ffc-a11d-1d80da98de5d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts/SpeedRushItalic-GOYoa.ttf": {
+    "time": 1746469791421.595,
+    "uuid": "35e2abc2-bdc1-468f-a1a0-ad92063e2345",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Prefabs/ballPrefab.prefab": {
+    "time": 1746469791421.8188,
+    "uuid": "c0226be7-1198-484c-a1f0-630c9c5c6d39",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Game.scene": {
+    "time": 1746470462070.2036,
+    "uuid": "57e21853-a86d-4233-862c-3f6727687157",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Loading.scene": {
+    "time": 1746469791424.0562,
+    "uuid": "717e03dc-ffdb-4298-bec3-bdba9120da05",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Menu.scene": {
+    "time": 1746469791424.2034,
+    "uuid": "eb15eed1-0573-4734-9960-c36178f3dd63",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Splash.scene": {
+    "time": 1746469791424.4155,
+    "uuid": "9d19264f-22be-42a3-ba3d-f38fcf98efa3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/KF9RH0.jpg": {
+    "time": 1746469791426.4478,
+    "uuid": "803da5aa-a54d-480e-9aa0-3de325d6e99c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/Logo_Bubble Shooter.png": {
+    "time": 1746469791426.6392,
+    "uuid": "4ccdd202-bf7b-4964-8b3c-c548ab1217c1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/PreloadCircle.png": {
+    "time": 1746469791426.7708,
+    "uuid": "0126440d-0d0a-4fc2-b282-4d135893d94a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/PreloadSpinner.png": {
+    "time": 1746469791426.8787,
+    "uuid": "b513ded6-f330-4b25-9712-3ffd998badc9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/arrow.png": {
+    "time": 1746469791426.9802,
+    "uuid": "21c04f90-64db-4780-be85-a3e78269070d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/arrow2.png": {
+    "time": 1746469791427.0762,
+    "uuid": "87ff993e-d986-41b8-986d-31793cfb1b45",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/background-settings.png": {
+    "time": 1746469791427.273,
+    "uuid": "8aca1ff9-4a6e-44bc-9c1a-06cf667f8ddb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_black.png": {
+    "time": 1746469791427.4028,
+    "uuid": "d6270e66-b1f3-4308-a25b-3530beadd1bd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_black_small.png": {
+    "time": 1746469791427.5015,
+    "uuid": "54a85dd8-1f3c-442d-ba25-5c774b35d69e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue.png": {
+    "time": 1746469791427.638,
+    "uuid": "490064fd-8e3f-44d9-b5a7-21406f6dc5ce",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_1.png": {
+    "time": 1746469791427.7676,
+    "uuid": "b8233295-122a-4b1d-8d21-56195ab4eab1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_2.png": {
+    "time": 1746469791427.9053,
+    "uuid": "de4f39e3-a042-4653-be2c-26e9bda4578e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_3.png": {
+    "time": 1746469791428.0237,
+    "uuid": "f6aa2133-20bc-44ff-a8f0-2d078e2db20d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_4.png": {
+    "time": 1746469791428.1462,
+    "uuid": "3649b8eb-12dc-41ff-ad38-6ccef4d3ca7d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_5.png": {
+    "time": 1746469791428.2583,
+    "uuid": "f339e9e5-0d6f-4914-b35c-108d9fff8d5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_6.png": {
+    "time": 1746469791428.3723,
+    "uuid": "85aaada3-5622-4cb8-a66b-4a7cc043e3ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_small.png": {
+    "time": 1746469791428.4788,
+    "uuid": "9966478f-a1e3-4f24-8cc3-16f3665275b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown.png": {
+    "time": 1746469791428.6125,
+    "uuid": "dbe466ad-7d09-45ae-89c1-4d48b7eff5fc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_1.png": {
+    "time": 1746469791428.7534,
+    "uuid": "78da5437-c3ac-40f6-b08d-2f9492dd148f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_2.png": {
+    "time": 1746469791428.8818,
+    "uuid": "7d4b5ffe-e1e1-4e24-abf1-a75e21ac8c59",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_3.png": {
+    "time": 1746469791429.0073,
+    "uuid": "83f8130e-b227-4ed5-84c2-fb2e8ba963b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_4.png": {
+    "time": 1746469791429.1982,
+    "uuid": "4ce38044-8820-4df4-a1db-927ece609806",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_5.png": {
+    "time": 1746469791429.3225,
+    "uuid": "df4503b8-e836-4571-8a26-75ca9e5293d4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_6.png": {
+    "time": 1746469791429.427,
+    "uuid": "2a0ff29f-c9a3-4259-9e33-be34535569b2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_small.png": {
+    "time": 1746469791429.5344,
+    "uuid": "d69e63ff-0ee3-40eb-9176-ca1d0e98951d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green.png": {
+    "time": 1746469791429.6758,
+    "uuid": "a49dfc1e-cbd1-45a4-b962-1e390590dd01",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_1.png": {
+    "time": 1746469791429.8062,
+    "uuid": "8ff48aa6-26d1-4f38-9c30-439e6372ec1f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_2.png": {
+    "time": 1746469791429.9517,
+    "uuid": "e3dfa4ca-e743-48bc-b6f4-376b05b1a74e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_3.png": {
+    "time": 1746469791430.068,
+    "uuid": "50b0c767-448e-4d2c-ab59-2bb5ad0388c8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_4.png": {
+    "time": 1746469791430.19,
+    "uuid": "265f6e0e-c698-4066-81ad-8b4bf2b8b039",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_5.png": {
+    "time": 1746469791430.312,
+    "uuid": "65b80878-6c68-46a1-858c-e2c06e9eb06e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_6.png": {
+    "time": 1746469791430.426,
+    "uuid": "c3dc393c-8e2c-4286-b329-e8341fccf859",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_small.png": {
+    "time": 1746469791430.5295,
+    "uuid": "01a4e8e0-ebb5-48cc-b45f-3d791660ef62",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange.png": {
+    "time": 1746469791430.67,
+    "uuid": "7f471f1f-0aea-4049-afab-3c501054f115",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_1.png": {
+    "time": 1746469791430.8025,
+    "uuid": "b54196d5-6143-4947-a27c-d313211dad95",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_2.png": {
+    "time": 1746469791430.9192,
+    "uuid": "fb231be5-6963-49ce-9ccf-a8be39edb021",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_3.png": {
+    "time": 1746469791431.0332,
+    "uuid": "0cd69681-845e-4939-858d-194f0719fa80",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_4.png": {
+    "time": 1746469791431.1501,
+    "uuid": "6da24fdc-8615-40a6-8536-477b60a4e112",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_5.png": {
+    "time": 1746469791431.2576,
+    "uuid": "c7f04dee-56c0-41bd-9b32-7e802d8fb52f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_6.png": {
+    "time": 1746469791431.3513,
+    "uuid": "c7ffbef9-42fb-4d25-8d7e-74a5861fc2a0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_small.png": {
+    "time": 1746469791431.4504,
+    "uuid": "eda278cb-c60e-46d6-b72a-c8858a96a2d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink.png": {
+    "time": 1746469791431.5786,
+    "uuid": "22f50551-5a0d-42d6-8c93-018d786a0d0a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_1.png": {
+    "time": 1746469791431.7068,
+    "uuid": "e22d4240-176f-4f37-9405-49fe4bd14ae5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_2.png": {
+    "time": 1746469791431.8132,
+    "uuid": "25069df9-f12b-460f-9ac7-d997882dd1a5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_3.png": {
+    "time": 1746469791431.9214,
+    "uuid": "c2df6746-b3bd-49bb-8a83-00adcb67c536",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_4.png": {
+    "time": 1746469791432.0461,
+    "uuid": "21e893c2-53b4-4daa-9def-c63c7b9acd0e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_5.png": {
+    "time": 1746469791432.153,
+    "uuid": "ec6aec13-1d77-41f9-aebc-0bcfcb33798d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_6.png": {
+    "time": 1746469791432.2563,
+    "uuid": "0c60c6b4-c315-44c3-bf8f-8acc4b4ff3f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_small.png": {
+    "time": 1746469791432.3506,
+    "uuid": "04f6aaeb-4b6b-40a1-9534-538bbf96b98a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow.png": {
+    "time": 1746469791432.4749,
+    "uuid": "061d9028-e9e1-4db2-a907-b5c1d5ef8f37",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_1.png": {
+    "time": 1746469791432.6055,
+    "uuid": "50d3ab20-8d36-43d3-a87f-bd16ef98664f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_2.png": {
+    "time": 1746469791432.722,
+    "uuid": "63b0ab31-b2e0-485e-95e5-b073a91b3b36",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_3.png": {
+    "time": 1746469791432.8403,
+    "uuid": "fc8427f6-be25-4d0c-b147-2a4818864478",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_4.png": {
+    "time": 1746469791433.0195,
+    "uuid": "95f555ee-98d6-42b5-81f6-40c3710506f1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_5.png": {
+    "time": 1746469791433.1562,
+    "uuid": "d5871113-5cac-4fd1-8be5-7f8a6168faa8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_6.png": {
+    "time": 1746469791433.2617,
+    "uuid": "ede27bc1-eeed-4ca3-b51e-edcc05d70905",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_small.png": {
+    "time": 1746469791433.3618,
+    "uuid": "c5a066ce-81bc-4a38-8cc3-1aca7b3440c4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bg_Mob.jpg": {
+    "time": 1746469791433.69,
+    "uuid": "d77fcf2c-50e4-432e-a667-abb5b087ab00",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bg_Small.jpg": {
+    "time": 1746469791434.204,
+    "uuid": "3acb20c7-0ff7-4d7b-ad0b-0ae73af2a23d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-home.png": {
+    "time": 1746469791434.3342,
+    "uuid": "06db6e95-e222-439c-90d4-98faf47e224a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-play (1).png": {
+    "time": 1746469791434.4355,
+    "uuid": "4cceb5c5-1127-4dce-b557-015116b0192e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-play.png": {
+    "time": 1746469791434.5393,
+    "uuid": "5e98356d-95f1-491a-92c1-68a77ac2c4a9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-replay.png": {
+    "time": 1746469791434.657,
+    "uuid": "1733c090-b905-4f70-8e10-1cd6d4823966",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bubbles.png": {
+    "time": 1746469791435.6719,
+    "uuid": "a30bcea5-76da-42c1-bed0-1d335d9d19bc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-info.png": {
+    "time": 1746469791435.8079,
+    "uuid": "783085d2-428e-47d7-b27d-9551b34339ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-pause.png": {
+    "time": 1746469791435.9302,
+    "uuid": "cfb94423-5ea5-4793-bffa-69da71a0661d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-settings.png": {
+    "time": 1746469791436.0427,
+    "uuid": "371bc3f8-d4a8-4d3d-9a1e-a793fd3052fa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-text.png": {
+    "time": 1746469791436.134,
+    "uuid": "64e0f4d0-d5cd-4d67-86bf-4c319e9e2a20",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/gameover_table.png": {
+    "time": 1746469791436.2976,
+    "uuid": "176d7dfc-8197-4c5d-8cd5-cae7714bded9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/icon-music.png": {
+    "time": 1746469791436.4595,
+    "uuid": "b55e245f-b589-4b60-97f7-da4da497e2a9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/icon-sfx.png": {
+    "time": 1746469791436.5852,
+    "uuid": "e3e796fb-78c2-4957-b78c-6a685042c461",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/loseIcon.png": {
+    "time": 1746469791436.7156,
+    "uuid": "715ce742-ba6e-42b4-a70c-c49f98074875",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/main_table.png": {
+    "time": 1746469791436.9456,
+    "uuid": "326f2430-9dc5-4f9a-a1fe-f22a719b61f9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/nextBall_table.png": {
+    "time": 1746469791437.0635,
+    "uuid": "1e090510-66cb-442c-8094-faf300b2743f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/offVolume.png": {
+    "time": 1746469791437.1772,
+    "uuid": "f378628c-ffba-4447-b25b-cd69ce71cd5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/onVolume.png": {
+    "time": 1746469791437.2937,
+    "uuid": "2233b5d7-366d-4d4e-9364-e775cdbb031c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/pauseIcon.png": {
+    "time": 1746469791437.4116,
+    "uuid": "7eb2290a-ceab-4bd1-a639-1703715e16ef",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/pause_table.png": {
+    "time": 1746469791437.549,
+    "uuid": "464dfbfc-1dd2-40c5-ad66-f6ab817b5b5e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/replayBtn.png": {
+    "time": 1746469791437.6562,
+    "uuid": "5832fea4-5306-4402-8643-bcb3fc06293c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/soundOff.png": {
+    "time": 1746469791437.747,
+    "uuid": "459e7228-e420-4d6b-baab-de95713743b6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/soundOn.png": {
+    "time": 1746469791437.842,
+    "uuid": "3f5a8b1c-c7a1-4ead-8235-48bd12ff2b63",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/sub_table.png": {
+    "time": 1746469791437.9631,
+    "uuid": "7341e3a8-c79a-4cd3-8efa-4ddb3ac8a380",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/switch-button-background.png": {
+    "time": 1746469791438.5642,
+    "uuid": "ef9e74a7-3c18-4370-a176-5e62d28d2fb5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ui.png": {
+    "time": 1746469791439.3413,
+    "uuid": "488823cf-e098-4255-97f2-aedeb033f5ee",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/Layer 31.png": {
+    "time": 1746469791422.2104,
+    "uuid": "ef84fab0-9ef6-419a-a9d0-b49d128a3b14",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.atlas": {
+    "time": 1746469791422.3616,
+    "uuid": "0e7e08ca-f907-4b8f-bb09-fbeb46fd7879",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.png": {
+    "time": 1746469791423.2354,
+    "uuid": "f89826a1-f4a0-46c1-a388-37c66e07dc52",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.skel": {
+    "time": 1746469791423.5317,
+    "uuid": "3e5d8757-fa47-4f41-9ee7-61a3a56915ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/GreenAnim.anim.meta": {
+    "time": 1746469791417.4575
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/BrownAnim.anim.meta": {
+    "time": 1746469791417.3528
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/OrangeAnim.anim.meta": {
+    "time": 1746469791417.6992
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/LoadingAnim.anim.meta": {
+    "time": 1746469791417.5994
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/BlueAnim.anim.meta": {
+    "time": 1746469791417.2522
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/ballNodeAnim.anim.meta": {
+    "time": 1746469791418.2356
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/PinkAnim.anim.meta": {
+    "time": 1746469791417.802
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/SAReveal.anim.meta": {
+    "time": 1746469791417.9094
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/YellowAnim.anim.meta": {
+    "time": 1746469791418.1396
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Animations/SettingTableAnim.anim.meta": {
+    "time": 1746469791418.044
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_2.mp3.meta": {
+    "time": 1746469791418.9844
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_hits_bubble.mp3.meta": {
+    "time": 1746469791418.5535
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_hits_wall.mp3.meta": {
+    "time": 1746469791418.668
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_1.mp3.meta": {
+    "time": 1746469791418.8416
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/bubble_pops_3.mp3.meta": {
+    "time": 1746469791419.0942
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/button_click.mp3.meta": {
+    "time": 1746469791419.2268
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/lost.mp3.meta": {
+    "time": 1746469791419.556
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/shoot_bubble.mp3.meta": {
+    "time": 1746469791420.8271
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/music.mp3.meta": {
+    "time": 1746469791420.725
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/click.mp3.meta": {
+    "time": 1746469791419.388
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Game.scene.meta": {
+    "time": 1746469791423.992
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Prefabs/ballPrefab.prefab.meta": {
+    "time": 1746469791421.8762
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Audios/won.mp3.meta": {
+    "time": 1746469791421.028
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts/SpeedRush-JRKVB.ttf.meta": {
+    "time": 1746469791421.32
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Fonts/SpeedRushItalic-GOYoa.ttf.meta": {
+    "time": 1746469791421.675
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Loading.scene.meta": {
+    "time": 1746469791424.121
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Menu.scene.meta": {
+    "time": 1746469791424.2683
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Scenes/Splash.scene.meta": {
+    "time": 1746469791424.4685
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/KF9RH0.jpg.meta": {
+    "time": 1746469837127.6086
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/PreloadCircle.png.meta": {
+    "time": 1746469837128.9949
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/arrow.png.meta": {
+    "time": 1746469837130.246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/PreloadSpinner.png.meta": {
+    "time": 1746469837131.5093
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/arrow2.png.meta": {
+    "time": 1746469837145.6626
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_black_small.png.meta": {
+    "time": 1746469837147.4116
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_black.png.meta": {
+    "time": 1746469837152.6458
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/Logo_Bubble Shooter.png.meta": {
+    "time": 1746469837152.8367
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/background-settings.png.meta": {
+    "time": 1746469837159.883
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue.png.meta": {
+    "time": 1746469837160.676
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_1.png.meta": {
+    "time": 1746469837162.0454
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_2.png.meta": {
+    "time": 1746469837165.2756
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_3.png.meta": {
+    "time": 1746469837166.3767
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_4.png.meta": {
+    "time": 1746469837170.8462
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_5.png.meta": {
+    "time": 1746469837171.8406
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_6.png.meta": {
+    "time": 1746469837172.696
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_blue_small.png.meta": {
+    "time": 1746469837174.855
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown.png.meta": {
+    "time": 1746469837178.8638
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_1.png.meta": {
+    "time": 1746469837182.5347
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_2.png.meta": {
+    "time": 1746469837184.2275
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_3.png.meta": {
+    "time": 1746469837185.034
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_4.png.meta": {
+    "time": 1746469837187.104
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_5.png.meta": {
+    "time": 1746469837189.7983
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_6.png.meta": {
+    "time": 1746469837192.6792
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_brown_small.png.meta": {
+    "time": 1746469837194.2136
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green.png.meta": {
+    "time": 1746469837196.1345
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_1.png.meta": {
+    "time": 1746469837198.7712
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_2.png.meta": {
+    "time": 1746469837202.7068
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_3.png.meta": {
+    "time": 1746469837204.2617
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_4.png.meta": {
+    "time": 1746469837206.2793
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_5.png.meta": {
+    "time": 1746469837207.5183
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_6.png.meta": {
+    "time": 1746469837208.0479
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_green_small.png.meta": {
+    "time": 1746469837211.9355
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange.png.meta": {
+    "time": 1746469837215.9792
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_1.png.meta": {
+    "time": 1746469837216.5977
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_3.png.meta": {
+    "time": 1746469837216.8708
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_2.png.meta": {
+    "time": 1746469837217.205
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_4.png.meta": {
+    "time": 1746469837223.6372
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_5.png.meta": {
+    "time": 1746469837226.7646
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_small.png.meta": {
+    "time": 1746469837227.0635
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink.png.meta": {
+    "time": 1746469837231.2908
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_orange_6.png.meta": {
+    "time": 1746469837231.7554
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_1.png.meta": {
+    "time": 1746469837236.309
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_2.png.meta": {
+    "time": 1746469837236.7332
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_3.png.meta": {
+    "time": 1746469837237.8914
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_4.png.meta": {
+    "time": 1746469837240.6677
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_5.png.meta": {
+    "time": 1746469837242.0125
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_6.png.meta": {
+    "time": 1746469837245.511
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_pink_small.png.meta": {
+    "time": 1746469837246.191
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_1.png.meta": {
+    "time": 1746469837249.5806
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow.png.meta": {
+    "time": 1746469837250.1196
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_2.png.meta": {
+    "time": 1746469837251.62
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_3.png.meta": {
+    "time": 1746469837256.1306
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_4.png.meta": {
+    "time": 1746469837256.6626
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_6.png.meta": {
+    "time": 1746469837259.3328
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_small.png.meta": {
+    "time": 1746469837260.3591
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ball_yellow_5.png.meta": {
+    "time": 1746469837260.8142
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bg_Mob.jpg.meta": {
+    "time": 1746469837269.116
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-play.png.meta": {
+    "time": 1746469837273.8958
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-home.png.meta": {
+    "time": 1746469837274.4346
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bg_Small.jpg.meta": {
+    "time": 1746469837275.3079
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-play (1).png.meta": {
+    "time": 1746469837278.725
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/btn-replay.png.meta": {
+    "time": 1746469837281.1091
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-info.png.meta": {
+    "time": 1746469837286.4043
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-pause.png.meta": {
+    "time": 1746469837287.0146
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-settings.png.meta": {
+    "time": 1746469837296.9746
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/button-text.png.meta": {
+    "time": 1746469837299.1848
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/icon-music.png.meta": {
+    "time": 1746469837324.9138
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/icon-sfx.png.meta": {
+    "time": 1746469837327.0894
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/gameover_table.png.meta": {
+    "time": 1746469837327.3613
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/loseIcon.png.meta": {
+    "time": 1746469837332.6836
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/bubbles.png.meta": {
+    "time": 1746469837334.171
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/nextBall_table.png.meta": {
+    "time": 1746469837340.0054
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/offVolume.png.meta": {
+    "time": 1746469837340.3906
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/onVolume.png.meta": {
+    "time": 1746469837344.3435
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/main_table.png.meta": {
+    "time": 1746469837349.2476
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/pauseIcon.png.meta": {
+    "time": 1746469837351.1348
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/replayBtn.png.meta": {
+    "time": 1746469837353.7966
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/soundOff.png.meta": {
+    "time": 1746469837354.914
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/pause_table.png.meta": {
+    "time": 1746469837356.081
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/soundOn.png.meta": {
+    "time": 1746469837358.794
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.atlas.meta": {
+    "time": 1746469791422.413
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/Layer 31.png.meta": {
+    "time": 1746469837365.4077
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/switch-button-background.png.meta": {
+    "time": 1746469837365.5818
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.skel.meta": {
+    "time": 1746469791423.6064
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/sub_table.png.meta": {
+    "time": 1746469837371.0728
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/SAlLogo/Export/logo.png.meta": {
+    "time": 1746469837442.2546
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy/assets/Sprites/ui.png.meta": {
+    "time": 1746469837451.9663
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations": {
+    "time": 1746420953000,
+    "uuid": "9747b90e-a4be-4275-8fb0-2b7271abac62",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios": {
+    "time": 1746420953000,
+    "uuid": "96416ed3-6870-402b-9f2c-1cbc3180e996",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts": {
+    "time": 1746420953000,
+    "uuid": "cdd399f6-8a8d-436c-bbcd-60eb15ac145d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Prefabs": {
+    "time": 1746420945000,
+    "uuid": "91758ed2-86ff-4616-87ff-26e808db2873",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo": {
+    "time": 1746420953000,
+    "uuid": "5f0ecb78-ea1f-49aa-82df-3f6ccdeec1f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes": {
+    "time": 1746420953000,
+    "uuid": "253353f8-54b1-4886-a34f-d346c8d090e1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts": {
+    "time": 1746420953000,
+    "uuid": "0c16f4a0-5d9c-40e5-9a8a-9818dc6cd06d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites": {
+    "time": 1746420961000,
+    "uuid": "f1c17416-aef4-487f-9318-255581a975af",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export": {
+    "time": 1746420953000,
+    "uuid": "a1f647c0-25f1-4f84-8a1c-be388b47bd05",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser": {
+    "time": 1746420953000,
+    "uuid": "bd04d5c8-1978-41a7-bd59-168ed1704cd7",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading": {
+    "time": 1746420953000,
+    "uuid": "0ab5cf3e-2774-4199-9ab4-354920d16344",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash": {
+    "time": 1746420945000,
+    "uuid": "cd64e2b1-d72b-44b0-8749-a6aafe6b6edc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts": {
+    "time": 1746469791424.6643,
+    "uuid": "2a5aa0c6-7700-4d0e-afc9-84385ead85c2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts": {
+    "time": 1746470460451.091,
+    "uuid": "6e551075-1323-4973-9377-ee30bbef1d73",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts": {
+    "time": 1746469791425.157,
+    "uuid": "a2ee25b7-e32a-4d5c-a89d-7960e0c248b8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts": {
+    "time": 1746469791425.326,
+    "uuid": "208ab965-1cd4-4e61-a8c7-5d35c8807304",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts": {
+    "time": 1746470102068.2957,
+    "uuid": "64258366-a52a-48ea-ab7e-55815d2bed38",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts": {
+    "time": 1746469791425.7805,
+    "uuid": "d530f9a9-29ca-4cd2-89ae-1812bf434f7c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts": {
+    "time": 1746469791425.8867,
+    "uuid": "9dc867d3-1e10-4de3-bfcf-7142aa884cef",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts": {
+    "time": 1746469791426.1897,
+    "uuid": "13041a3d-aa45-4fd4-8a6d-610129f179fd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts": {
+    "time": 1746469791424.8481,
+    "uuid": "5550dbd9-2501-4863-9b96-4abbd98033d5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts": {
+    "time": 1746470141092.0608,
+    "uuid": "b9fd9048-b92a-445c-a9aa-be357e7bd06f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts": {
+    "time": 1746469791426.0884,
+    "uuid": "0f38a304-9b12-4b6f-9654-319098550b7a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations.meta": {
+    "time": 1746469791417.0999
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios.meta": {
+    "time": 1746469791418.2808
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts.meta": {
+    "time": 1746469791421.0762
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Prefabs.meta": {
+    "time": 1746469791421.7263
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo.meta": {
+    "time": 1746469791421.9304
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes.meta": {
+    "time": 1746469791423.6602
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts.meta": {
+    "time": 1746469791424.5237
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites.meta": {
+    "time": 1746469791426.3003
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export.meta": {
+    "time": 1746469791422.012
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser.meta": {
+    "time": 1746469791424.7656
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading.meta": {
+    "time": 1746469791425.438
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash.meta": {
+    "time": 1746469791425.9937
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts.meta": {
+    "time": 1746469791424.7175
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts.meta": {
+    "time": 1746469791425.0615
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts.meta": {
+    "time": 1746469791425.2246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts.meta": {
+    "time": 1746469791425.3843
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts.meta": {
+    "time": 1746469791425.7297
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts.meta": {
+    "time": 1746469791425.8352
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts.meta": {
+    "time": 1746469791425.939
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts.meta": {
+    "time": 1746469791426.246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts.meta": {
+    "time": 1746469791424.9004
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts.meta": {
+    "time": 1746469791425.5837
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts.meta": {
+    "time": 1746469791426.1387
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/BlueAnim.anim": {
+    "time": 1746469791417.1965,
+    "uuid": "07c6258a-c13a-47d4-8fef-e4369940776e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/BrownAnim.anim": {
+    "time": 1746469791417.3044,
+    "uuid": "1feefa2e-ab48-4537-872f-2e3d634ddcbd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/GreenAnim.anim": {
+    "time": 1746469791417.4077,
+    "uuid": "744a3dc7-d454-40dd-b7ff-40d0e1016591",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/LoadingAnim.anim": {
+    "time": 1746469791417.5483,
+    "uuid": "3d1ad271-32e0-405c-a35c-6bc809d2f4e6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/OrangeAnim.anim": {
+    "time": 1746469791417.6504,
+    "uuid": "0951a793-b4b8-4599-95b3-4cb8e81935dd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/PinkAnim.anim": {
+    "time": 1746469791417.752,
+    "uuid": "56fad3af-3473-454b-89d6-e028b4b34971",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/SAReveal.anim": {
+    "time": 1746469791417.8572,
+    "uuid": "e0f28819-5904-4ecd-b6b2-090a0238a39f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/SettingTableAnim.anim": {
+    "time": 1746469791417.9954,
+    "uuid": "18b42fce-4f6c-4e11-b52c-19aa60943618",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/YellowAnim.anim": {
+    "time": 1746469791418.089,
+    "uuid": "d4b08f32-10aa-44bc-8e7f-e0ac795a947e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/ballNodeAnim.anim": {
+    "time": 1746469791418.1892,
+    "uuid": "b5bd877a-3e9d-45f4-a6c7-07144c6bee57",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_hits_bubble.mp3": {
+    "time": 1746469791418.4836,
+    "uuid": "9675a256-716e-4392-9ffb-91bf35f85282",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_hits_wall.mp3": {
+    "time": 1746469791418.6177,
+    "uuid": "dbaf060f-ba60-41b1-9ab3-79836dc8d266",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_1.mp3": {
+    "time": 1746469791418.7612,
+    "uuid": "02b37713-2b8c-4734-ad42-0302d372af16",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_2.mp3": {
+    "time": 1746469791418.913,
+    "uuid": "9d9e8797-e382-4541-a688-82e32d5e9a47",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_3.mp3": {
+    "time": 1746469791419.0322,
+    "uuid": "92208f4e-876d-4b9e-b685-a527bd9da793",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/button_click.mp3": {
+    "time": 1746469791419.1824,
+    "uuid": "948ccb0f-7873-4eff-85ab-27daffb5cef3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/click.mp3": {
+    "time": 1746469791419.3267,
+    "uuid": "9993b327-4ab6-43dd-91c3-9a1fe5f03e80",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/lost.mp3": {
+    "time": 1746469791419.4946,
+    "uuid": "813e9384-a4a3-4485-a52f-4d1c4c9fa8fa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/music.mp3": {
+    "time": 1746469791420.66,
+    "uuid": "a61cf186-bd4e-4903-bd23-daf37ab0596a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/shoot_bubble.mp3": {
+    "time": 1746469791420.7798,
+    "uuid": "0c0d2180-1c84-4423-989e-e27b1e1ba020",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/won.mp3": {
+    "time": 1746469791420.9624,
+    "uuid": "aaf6f802-f362-47b9-a50c-9f0a8387eded",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts/SpeedRush-JRKVB.ttf": {
+    "time": 1746469791421.25,
+    "uuid": "28bcbe0e-1565-4ffc-a11d-1d80da98de5d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts/SpeedRushItalic-GOYoa.ttf": {
+    "time": 1746469791421.595,
+    "uuid": "35e2abc2-bdc1-468f-a1a0-ad92063e2345",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Prefabs/ballPrefab.prefab": {
+    "time": 1746469791421.8188,
+    "uuid": "c0226be7-1198-484c-a1f0-630c9c5c6d39",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Game.scene": {
+    "time": 1746470462070.2036,
+    "uuid": "57e21853-a86d-4233-862c-3f6727687157",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Loading.scene": {
+    "time": 1746469791424.0562,
+    "uuid": "717e03dc-ffdb-4298-bec3-bdba9120da05",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Menu.scene": {
+    "time": 1746469791424.2036,
+    "uuid": "eb15eed1-0573-4734-9960-c36178f3dd63",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Splash.scene": {
+    "time": 1746469791424.4155,
+    "uuid": "9d19264f-22be-42a3-ba3d-f38fcf98efa3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/KF9RH0.jpg": {
+    "time": 1746469791426.4478,
+    "uuid": "803da5aa-a54d-480e-9aa0-3de325d6e99c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/Logo_Bubble Shooter.png": {
+    "time": 1746469791426.6392,
+    "uuid": "4ccdd202-bf7b-4964-8b3c-c548ab1217c1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/PreloadCircle.png": {
+    "time": 1746469791426.7708,
+    "uuid": "0126440d-0d0a-4fc2-b282-4d135893d94a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/PreloadSpinner.png": {
+    "time": 1746469791426.8787,
+    "uuid": "b513ded6-f330-4b25-9712-3ffd998badc9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/arrow.png": {
+    "time": 1746469791426.9802,
+    "uuid": "21c04f90-64db-4780-be85-a3e78269070d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/arrow2.png": {
+    "time": 1746469791427.0762,
+    "uuid": "87ff993e-d986-41b8-986d-31793cfb1b45",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/background-settings.png": {
+    "time": 1746469791427.273,
+    "uuid": "8aca1ff9-4a6e-44bc-9c1a-06cf667f8ddb",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_black.png": {
+    "time": 1746469791427.4028,
+    "uuid": "d6270e66-b1f3-4308-a25b-3530beadd1bd",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_black_small.png": {
+    "time": 1746469791427.5012,
+    "uuid": "54a85dd8-1f3c-442d-ba25-5c774b35d69e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue.png": {
+    "time": 1746469791427.6377,
+    "uuid": "490064fd-8e3f-44d9-b5a7-21406f6dc5ce",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_1.png": {
+    "time": 1746469791427.7676,
+    "uuid": "b8233295-122a-4b1d-8d21-56195ab4eab1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_2.png": {
+    "time": 1746469791427.9053,
+    "uuid": "de4f39e3-a042-4653-be2c-26e9bda4578e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_3.png": {
+    "time": 1746469791428.0237,
+    "uuid": "f6aa2133-20bc-44ff-a8f0-2d078e2db20d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_4.png": {
+    "time": 1746469791428.1462,
+    "uuid": "3649b8eb-12dc-41ff-ad38-6ccef4d3ca7d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_5.png": {
+    "time": 1746469791428.2583,
+    "uuid": "f339e9e5-0d6f-4914-b35c-108d9fff8d5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_6.png": {
+    "time": 1746469791428.3723,
+    "uuid": "85aaada3-5622-4cb8-a66b-4a7cc043e3ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_small.png": {
+    "time": 1746469791428.4788,
+    "uuid": "9966478f-a1e3-4f24-8cc3-16f3665275b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown.png": {
+    "time": 1746469791428.6125,
+    "uuid": "dbe466ad-7d09-45ae-89c1-4d48b7eff5fc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_1.png": {
+    "time": 1746469791428.7534,
+    "uuid": "78da5437-c3ac-40f6-b08d-2f9492dd148f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_2.png": {
+    "time": 1746469791428.8818,
+    "uuid": "7d4b5ffe-e1e1-4e24-abf1-a75e21ac8c59",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_3.png": {
+    "time": 1746469791429.0073,
+    "uuid": "83f8130e-b227-4ed5-84c2-fb2e8ba963b1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_4.png": {
+    "time": 1746469791429.1985,
+    "uuid": "4ce38044-8820-4df4-a1db-927ece609806",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_5.png": {
+    "time": 1746469791429.3225,
+    "uuid": "df4503b8-e836-4571-8a26-75ca9e5293d4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_6.png": {
+    "time": 1746469791429.427,
+    "uuid": "2a0ff29f-c9a3-4259-9e33-be34535569b2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_small.png": {
+    "time": 1746469791429.5344,
+    "uuid": "d69e63ff-0ee3-40eb-9176-ca1d0e98951d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green.png": {
+    "time": 1746469791429.6758,
+    "uuid": "a49dfc1e-cbd1-45a4-b962-1e390590dd01",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_1.png": {
+    "time": 1746469791429.8062,
+    "uuid": "8ff48aa6-26d1-4f38-9c30-439e6372ec1f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_2.png": {
+    "time": 1746469791429.9517,
+    "uuid": "e3dfa4ca-e743-48bc-b6f4-376b05b1a74e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_3.png": {
+    "time": 1746469791430.068,
+    "uuid": "50b0c767-448e-4d2c-ab59-2bb5ad0388c8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_4.png": {
+    "time": 1746469791430.19,
+    "uuid": "265f6e0e-c698-4066-81ad-8b4bf2b8b039",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_5.png": {
+    "time": 1746469791430.312,
+    "uuid": "65b80878-6c68-46a1-858c-e2c06e9eb06e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_6.png": {
+    "time": 1746469791430.426,
+    "uuid": "c3dc393c-8e2c-4286-b329-e8341fccf859",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_small.png": {
+    "time": 1746469791430.5295,
+    "uuid": "01a4e8e0-ebb5-48cc-b45f-3d791660ef62",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange.png": {
+    "time": 1746469791430.67,
+    "uuid": "7f471f1f-0aea-4049-afab-3c501054f115",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_1.png": {
+    "time": 1746469791430.8022,
+    "uuid": "b54196d5-6143-4947-a27c-d313211dad95",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_2.png": {
+    "time": 1746469791430.919,
+    "uuid": "fb231be5-6963-49ce-9ccf-a8be39edb021",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_3.png": {
+    "time": 1746469791431.0332,
+    "uuid": "0cd69681-845e-4939-858d-194f0719fa80",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_4.png": {
+    "time": 1746469791431.1501,
+    "uuid": "6da24fdc-8615-40a6-8536-477b60a4e112",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_5.png": {
+    "time": 1746469791431.2576,
+    "uuid": "c7f04dee-56c0-41bd-9b32-7e802d8fb52f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_6.png": {
+    "time": 1746469791431.3513,
+    "uuid": "c7ffbef9-42fb-4d25-8d7e-74a5861fc2a0",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_small.png": {
+    "time": 1746469791431.4504,
+    "uuid": "eda278cb-c60e-46d6-b72a-c8858a96a2d2",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink.png": {
+    "time": 1746469791431.5786,
+    "uuid": "22f50551-5a0d-42d6-8c93-018d786a0d0a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_1.png": {
+    "time": 1746469791431.7068,
+    "uuid": "e22d4240-176f-4f37-9405-49fe4bd14ae5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_2.png": {
+    "time": 1746469791431.8132,
+    "uuid": "25069df9-f12b-460f-9ac7-d997882dd1a5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_3.png": {
+    "time": 1746469791431.9214,
+    "uuid": "c2df6746-b3bd-49bb-8a83-00adcb67c536",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_4.png": {
+    "time": 1746469791432.0461,
+    "uuid": "21e893c2-53b4-4daa-9def-c63c7b9acd0e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_5.png": {
+    "time": 1746469791432.153,
+    "uuid": "ec6aec13-1d77-41f9-aebc-0bcfcb33798d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_6.png": {
+    "time": 1746469791432.2563,
+    "uuid": "0c60c6b4-c315-44c3-bf8f-8acc4b4ff3f3",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_small.png": {
+    "time": 1746469791432.3506,
+    "uuid": "04f6aaeb-4b6b-40a1-9534-538bbf96b98a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow.png": {
+    "time": 1746469791432.4749,
+    "uuid": "061d9028-e9e1-4db2-a907-b5c1d5ef8f37",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_1.png": {
+    "time": 1746469791432.6055,
+    "uuid": "50d3ab20-8d36-43d3-a87f-bd16ef98664f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_2.png": {
+    "time": 1746469791432.722,
+    "uuid": "63b0ab31-b2e0-485e-95e5-b073a91b3b36",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_3.png": {
+    "time": 1746469791432.8403,
+    "uuid": "fc8427f6-be25-4d0c-b147-2a4818864478",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_4.png": {
+    "time": 1746469791433.0193,
+    "uuid": "95f555ee-98d6-42b5-81f6-40c3710506f1",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_5.png": {
+    "time": 1746469791433.1562,
+    "uuid": "d5871113-5cac-4fd1-8be5-7f8a6168faa8",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_6.png": {
+    "time": 1746469791433.2617,
+    "uuid": "ede27bc1-eeed-4ca3-b51e-edcc05d70905",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_small.png": {
+    "time": 1746469791433.3618,
+    "uuid": "c5a066ce-81bc-4a38-8cc3-1aca7b3440c4",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bg_Mob.jpg": {
+    "time": 1746469791433.69,
+    "uuid": "d77fcf2c-50e4-432e-a667-abb5b087ab00",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bg_Small.jpg": {
+    "time": 1746469791434.204,
+    "uuid": "3acb20c7-0ff7-4d7b-ad0b-0ae73af2a23d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-home.png": {
+    "time": 1746469791434.3342,
+    "uuid": "06db6e95-e222-439c-90d4-98faf47e224a",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-play (1).png": {
+    "time": 1746469791434.4355,
+    "uuid": "4cceb5c5-1127-4dce-b557-015116b0192e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-play.png": {
+    "time": 1746469791434.5393,
+    "uuid": "5e98356d-95f1-491a-92c1-68a77ac2c4a9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-replay.png": {
+    "time": 1746469791434.657,
+    "uuid": "1733c090-b905-4f70-8e10-1cd6d4823966",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bubbles.png": {
+    "time": 1746469791435.6719,
+    "uuid": "a30bcea5-76da-42c1-bed0-1d335d9d19bc",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-info.png": {
+    "time": 1746469791435.8079,
+    "uuid": "783085d2-428e-47d7-b27d-9551b34339ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-pause.png": {
+    "time": 1746469791435.9302,
+    "uuid": "cfb94423-5ea5-4793-bffa-69da71a0661d",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-settings.png": {
+    "time": 1746469791436.0427,
+    "uuid": "371bc3f8-d4a8-4d3d-9a1e-a793fd3052fa",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-text.png": {
+    "time": 1746469791436.134,
+    "uuid": "64e0f4d0-d5cd-4d67-86bf-4c319e9e2a20",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/gameover_table.png": {
+    "time": 1746469791436.2976,
+    "uuid": "176d7dfc-8197-4c5d-8cd5-cae7714bded9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/icon-music.png": {
+    "time": 1746469791436.4595,
+    "uuid": "b55e245f-b589-4b60-97f7-da4da497e2a9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/icon-sfx.png": {
+    "time": 1746469791436.5852,
+    "uuid": "e3e796fb-78c2-4957-b78c-6a685042c461",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/loseIcon.png": {
+    "time": 1746469791436.7156,
+    "uuid": "715ce742-ba6e-42b4-a70c-c49f98074875",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/main_table.png": {
+    "time": 1746469791436.9456,
+    "uuid": "326f2430-9dc5-4f9a-a1fe-f22a719b61f9",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/nextBall_table.png": {
+    "time": 1746469791437.0635,
+    "uuid": "1e090510-66cb-442c-8094-faf300b2743f",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/offVolume.png": {
+    "time": 1746469791437.1772,
+    "uuid": "f378628c-ffba-4447-b25b-cd69ce71cd5b",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/onVolume.png": {
+    "time": 1746469791437.2937,
+    "uuid": "2233b5d7-366d-4d4e-9364-e775cdbb031c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/pauseIcon.png": {
+    "time": 1746469791437.4116,
+    "uuid": "7eb2290a-ceab-4bd1-a639-1703715e16ef",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/pause_table.png": {
+    "time": 1746469791437.549,
+    "uuid": "464dfbfc-1dd2-40c5-ad66-f6ab817b5b5e",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/replayBtn.png": {
+    "time": 1746469791437.6562,
+    "uuid": "5832fea4-5306-4402-8643-bcb3fc06293c",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/soundOff.png": {
+    "time": 1746469791437.747,
+    "uuid": "459e7228-e420-4d6b-baab-de95713743b6",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/soundOn.png": {
+    "time": 1746469791437.842,
+    "uuid": "3f5a8b1c-c7a1-4ead-8235-48bd12ff2b63",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/sub_table.png": {
+    "time": 1746469791437.9631,
+    "uuid": "7341e3a8-c79a-4cd3-8efa-4ddb3ac8a380",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/switch-button-background.png": {
+    "time": 1746469791438.5642,
+    "uuid": "ef9e74a7-3c18-4370-a176-5e62d28d2fb5",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ui.png": {
+    "time": 1746469791439.3413,
+    "uuid": "488823cf-e098-4255-97f2-aedeb033f5ee",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/Layer 31.png": {
+    "time": 1746469791422.2104,
+    "uuid": "ef84fab0-9ef6-419a-a9d0-b49d128a3b14",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.atlas": {
+    "time": 1746469791422.3616,
+    "uuid": "0e7e08ca-f907-4b8f-bb09-fbeb46fd7879",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.png": {
+    "time": 1746469791423.2354,
+    "uuid": "f89826a1-f4a0-46c1-a388-37c66e07dc52",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.skel": {
+    "time": 1746469791423.5317,
+    "uuid": "3e5d8757-fa47-4f41-9ee7-61a3a56915ae",
+    "missing": false
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/BrownAnim.anim.meta": {
+    "time": 1746469791417.3528
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/LoadingAnim.anim.meta": {
+    "time": 1746469791417.5994
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/BlueAnim.anim.meta": {
+    "time": 1746469791417.2522
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/OrangeAnim.anim.meta": {
+    "time": 1746469791417.6992
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/GreenAnim.anim.meta": {
+    "time": 1746469791417.4575
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/SAReveal.anim.meta": {
+    "time": 1746469791417.9094
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/PinkAnim.anim.meta": {
+    "time": 1746469791417.802
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/SettingTableAnim.anim.meta": {
+    "time": 1746469791418.044
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/ballNodeAnim.anim.meta": {
+    "time": 1746469791418.2356
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Animations/YellowAnim.anim.meta": {
+    "time": 1746469791418.1396
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_hits_wall.mp3.meta": {
+    "time": 1746469791418.668
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_hits_bubble.mp3.meta": {
+    "time": 1746469791418.5535
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_1.mp3.meta": {
+    "time": 1746469791418.8418
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_2.mp3.meta": {
+    "time": 1746469791418.9844
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/bubble_pops_3.mp3.meta": {
+    "time": 1746469791419.0942
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/button_click.mp3.meta": {
+    "time": 1746469791419.2268
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/shoot_bubble.mp3.meta": {
+    "time": 1746469791420.8271
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/lost.mp3.meta": {
+    "time": 1746469791419.556
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/click.mp3.meta": {
+    "time": 1746469791419.388
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/music.mp3.meta": {
+    "time": 1746469791420.725
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Prefabs/ballPrefab.prefab.meta": {
+    "time": 1746469791421.8762
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Game.scene.meta": {
+    "time": 1746469791423.992
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Audios/won.mp3.meta": {
+    "time": 1746469791421.028
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts/SpeedRush-JRKVB.ttf.meta": {
+    "time": 1746469791421.32
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Fonts/SpeedRushItalic-GOYoa.ttf.meta": {
+    "time": 1746469791421.675
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Loading.scene.meta": {
+    "time": 1746469791424.1213
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Splash.scene.meta": {
+    "time": 1746469791424.4688
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scenes/Menu.scene.meta": {
+    "time": 1746469791424.2683
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/arrow.png.meta": {
+    "time": 1746469837130.246
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/PreloadCircle.png.meta": {
+    "time": 1746469837128.9949
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/KF9RH0.jpg.meta": {
+    "time": 1746469837127.6086
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/PreloadSpinner.png.meta": {
+    "time": 1746469837131.5093
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/arrow2.png.meta": {
+    "time": 1746469837145.6626
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_black.png.meta": {
+    "time": 1746469837152.6458
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_black_small.png.meta": {
+    "time": 1746469837147.4116
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/Logo_Bubble Shooter.png.meta": {
+    "time": 1746469837152.8367
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/background-settings.png.meta": {
+    "time": 1746469837159.883
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue.png.meta": {
+    "time": 1746469837160.676
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_1.png.meta": {
+    "time": 1746469837162.0454
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_2.png.meta": {
+    "time": 1746469837165.2756
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_3.png.meta": {
+    "time": 1746469837166.3767
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_4.png.meta": {
+    "time": 1746469837170.8464
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_6.png.meta": {
+    "time": 1746469837172.696
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_5.png.meta": {
+    "time": 1746469837171.8406
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_blue_small.png.meta": {
+    "time": 1746469837174.855
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown.png.meta": {
+    "time": 1746469837178.8638
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_1.png.meta": {
+    "time": 1746469837182.5347
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_2.png.meta": {
+    "time": 1746469837184.2275
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_3.png.meta": {
+    "time": 1746469837185.0337
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_4.png.meta": {
+    "time": 1746469837187.104
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_small.png.meta": {
+    "time": 1746469837194.2139
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_6.png.meta": {
+    "time": 1746469837192.6792
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green.png.meta": {
+    "time": 1746469837196.1345
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_brown_5.png.meta": {
+    "time": 1746469837189.7983
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_1.png.meta": {
+    "time": 1746469837198.7712
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_2.png.meta": {
+    "time": 1746469837202.7068
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_3.png.meta": {
+    "time": 1746469837204.2617
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_4.png.meta": {
+    "time": 1746469837206.2793
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_5.png.meta": {
+    "time": 1746469837207.5183
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_6.png.meta": {
+    "time": 1746469837208.0479
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_green_small.png.meta": {
+    "time": 1746469837211.9355
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange.png.meta": {
+    "time": 1746469837215.9792
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_1.png.meta": {
+    "time": 1746469837216.5977
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_2.png.meta": {
+    "time": 1746469837217.205
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_3.png.meta": {
+    "time": 1746469837216.8708
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_small.png.meta": {
+    "time": 1746469837227.0635
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_4.png.meta": {
+    "time": 1746469837223.6372
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_6.png.meta": {
+    "time": 1746469837231.7554
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_orange_5.png.meta": {
+    "time": 1746469837226.7646
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink.png.meta": {
+    "time": 1746469837231.2908
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_3.png.meta": {
+    "time": 1746469837237.8914
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_2.png.meta": {
+    "time": 1746469837236.7332
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_1.png.meta": {
+    "time": 1746469837236.309
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_4.png.meta": {
+    "time": 1746469837240.6677
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_5.png.meta": {
+    "time": 1746469837242.0125
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_small.png.meta": {
+    "time": 1746469837246.191
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_pink_6.png.meta": {
+    "time": 1746469837245.511
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow.png.meta": {
+    "time": 1746469837250.1196
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_2.png.meta": {
+    "time": 1746469837251.62
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_1.png.meta": {
+    "time": 1746469837249.5806
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_3.png.meta": {
+    "time": 1746469837256.1306
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_4.png.meta": {
+    "time": 1746469837256.6626
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_5.png.meta": {
+    "time": 1746469837260.8142
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_6.png.meta": {
+    "time": 1746469837259.3328
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ball_yellow_small.png.meta": {
+    "time": 1746469837260.3591
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-home.png.meta": {
+    "time": 1746469837274.4346
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-play.png.meta": {
+    "time": 1746469837273.8958
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bg_Mob.jpg.meta": {
+    "time": 1746469837269.116
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-play (1).png.meta": {
+    "time": 1746469837278.725
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bg_Small.jpg.meta": {
+    "time": 1746469837275.3079
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/btn-replay.png.meta": {
+    "time": 1746469837281.1091
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-info.png.meta": {
+    "time": 1746469837286.4043
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-pause.png.meta": {
+    "time": 1746469837287.0146
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-settings.png.meta": {
+    "time": 1746469837296.9746
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/bubbles.png.meta": {
+    "time": 1746469837334.171
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/button-text.png.meta": {
+    "time": 1746469837299.1848
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/icon-music.png.meta": {
+    "time": 1746469837324.9138
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/icon-sfx.png.meta": {
+    "time": 1746469837327.0894
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/gameover_table.png.meta": {
+    "time": 1746469837327.3613
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/loseIcon.png.meta": {
+    "time": 1746469837332.6836
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/nextBall_table.png.meta": {
+    "time": 1746469837340.0054
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/offVolume.png.meta": {
+    "time": 1746469837340.3906
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/onVolume.png.meta": {
+    "time": 1746469837344.3435
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/main_table.png.meta": {
+    "time": 1746469837349.2476
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/pauseIcon.png.meta": {
+    "time": 1746469837351.1348
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/replayBtn.png.meta": {
+    "time": 1746469837353.7966
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/soundOn.png.meta": {
+    "time": 1746469837358.794
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/soundOff.png.meta": {
+    "time": 1746469837354.914
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/pause_table.png.meta": {
+    "time": 1746469837356.081
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.atlas.meta": {
+    "time": 1746469791422.413
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/Layer 31.png.meta": {
+    "time": 1746469837365.4077
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/sub_table.png.meta": {
+    "time": 1746469837371.0728
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/switch-button-background.png.meta": {
+    "time": 1746469837365.5818
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.skel.meta": {
+    "time": 1746469791423.6064
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/SAlLogo/Export/logo.png.meta": {
+    "time": 1746469837442.2546
+  },
+  "/Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Sprites/ui.png.meta": {
+    "time": 1746469837451.966
+  }
+}

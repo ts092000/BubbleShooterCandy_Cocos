@@ -1,0 +1,1674 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 2948.8171250000596,
+      "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-empty",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/sorting",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/geometry-renderer",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/xr",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/light-probe",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 14
+            },
+            "end": {
+              "line": 24,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 14
+            },
+            "end": {
+              "line": 25,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 14
+            },
+            "end": {
+              "line": 26,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_26",
+          "loc": {
+            "start": {
+              "line": 27,
+              "column": 14
+            },
+            "end": {
+              "line": 27,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_27",
+          "loc": {
+            "start": {
+              "line": 28,
+              "column": 14
+            },
+            "end": {
+              "line": 28,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/custom-pipeline",
+          "resolved": "__unresolved_28",
+          "loc": {
+            "start": {
+              "line": 29,
+              "column": 14
+            },
+            "end": {
+              "line": 29,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-empty"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/geometry-renderer"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/xr"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/custom-pipeline"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 5501.212249999866,
+      "chunkId": "8dd0c11f9264beb4a10294224d354d9a00b12b33",
+      "imports": [
+        {
+          "value": "file:///Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 35
+            },
+            "end": {
+              "line": 5,
+              "column": 183
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 199
+            },
+            "end": {
+              "line": 5,
+              "column": 306
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 322
+            },
+            "end": {
+              "line": 5,
+              "column": 438
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 454
+            },
+            "end": {
+              "line": 5,
+              "column": 567
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 583
+            },
+            "end": {
+              "line": 5,
+              "column": 691
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 707
+            },
+            "end": {
+              "line": 5,
+              "column": 814
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 830
+            },
+            "end": {
+              "line": 5,
+              "column": 947
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 963
+            },
+            "end": {
+              "line": 5,
+              "column": 1076
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1092
+            },
+            "end": {
+              "line": 5,
+              "column": 1200
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1216
+            },
+            "end": {
+              "line": 5,
+              "column": 1323
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1339
+            },
+            "end": {
+              "line": 5,
+              "column": 1455
+            }
+          }
+        },
+        {
+          "value": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1471
+            },
+            "end": {
+              "line": 5,
+              "column": 1579
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+      "mTimestamp": {
+        "mtime": 1691996108000,
+        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+      },
+      "chunkId": "2149071586fb5ee96d3e15df3a10b119fd0c3790",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 220
+            },
+            "end": {
+              "line": 1,
+              "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791424.6643,
+        "uuid": "2a5aa0c6-7700-4d0e-afc9-84385ead85c2"
+      },
+      "chunkId": "413e17c3886754bd62736f0f5c8f1d761a317cdb",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791424.8481,
+        "uuid": "5550dbd9-2501-4863-9b96-4abbd98033d5"
+      },
+      "chunkId": "768bd13ffe1805a417c2d8e11804ada6cb9eef10",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts": {
+      "mTimestamp": {
+        "mtime": 1746470460451.091,
+        "uuid": "6e551075-1323-4973-9377-ee30bbef1d73"
+      },
+      "chunkId": "3b9be2cc1bcb92e1d3535987cfc12df2008fd6c5",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 179
+            },
+            "end": {
+              "line": 1,
+              "column": 183
+            }
+          }
+        },
+        {
+          "value": "./GameModel",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./GameView",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./Splash/Controller",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 27
+            },
+            "end": {
+              "line": 6,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./StoredAPI",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 26
+            },
+            "end": {
+              "line": 7,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./DataUser/DataGame",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 25
+            },
+            "end": {
+              "line": 8,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1746471338566,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791425.157,
+        "uuid": "a2ee25b7-e32a-4d5c-a89d-7960e0c248b8"
+      },
+      "chunkId": "1556dadbcc24fc8158314b49ceec2083388c5a08",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 73
+            },
+            "end": {
+              "line": 1,
+              "column": 77
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791425.326,
+        "uuid": "208ab965-1cd4-4e61-a8c7-5d35c8807304"
+      },
+      "chunkId": "598879c5f417cfe9a10089a3c86d7ed3f93f6f46",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 130
+            },
+            "end": {
+              "line": 1,
+              "column": 134
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791426.0884,
+        "uuid": "0f38a304-9b12-4b6f-9654-319098550b7a"
+      },
+      "chunkId": "62117e2acdbd0a82cc41c30f92d52696d9fe3bc6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791426.1897,
+        "uuid": "13041a3d-aa45-4fd4-8a6d-610129f179fd"
+      },
+      "chunkId": "fe64cccdc5b18dc89363313eb83ed027752eb8ca",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts": {
+      "mTimestamp": {
+        "mtime": 1746470141092.0608,
+        "uuid": "b9fd9048-b92a-445c-a9aa-be357e7bd06f"
+      },
+      "chunkId": "87300bc86073483bedfc9f552e49bd864341b128",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 60
+            },
+            "end": {
+              "line": 2,
+              "column": 64
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts": {
+      "mTimestamp": {
+        "mtime": 1746470102068.2957,
+        "uuid": "64258366-a52a-48ea-ab7e-55815d2bed38"
+      },
+      "chunkId": "277c7083689635bb411601ffdcca11398528a0b4",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 73
+            },
+            "end": {
+              "line": 1,
+              "column": 77
+            }
+          }
+        },
+        {
+          "value": "./MenuModel",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 39
+            }
+          }
+        },
+        {
+          "value": "./MenuView",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 37
+            }
+          }
+        },
+        {
+          "value": "./Splash/Controller",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuModel.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791425.7805,
+        "uuid": "d530f9a9-29ca-4cd2-89ae-1812bf434f7c"
+      },
+      "chunkId": "93c91fb22c69fc8299c44b4a7b838bb4c95e3886",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 52
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuView.ts": {
+      "mTimestamp": {
+        "mtime": 1746469791425.8867,
+        "uuid": "9dc867d3-1e10-4de3-bfcf-7142aa884cef"
+      },
+      "chunkId": "20d9a67e3177867948808dc5cc9dbc8ece540ab4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 79
+            },
+            "end": {
+              "line": 1,
+              "column": 83
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

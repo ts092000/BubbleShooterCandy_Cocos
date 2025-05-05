@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KF9RH0",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 760,
+      "height": 427
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 760,
+      "height": 427
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -380,
+        -213.5,
+        0,
+        380,
+        -213.5,
+        0,
+        -380,
+        213.5,
+        0,
+        380,
+        213.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        427,
+        760,
+        427,
+        0,
+        0,
+        760,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -380,
+        "y": -213.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 380,
+        "y": 213.5,
+        "z": 0
+      }
+    },
+    "texture": "803da5aa-a54d-480e-9aa0-3de325d6e99c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

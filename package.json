@@ -1,0 +1,10 @@
+{
+  "name": "BubbleShooterCandy",
+  "uuid": "c264d0e4-bb1e-41e4-b23c-8aca59666e6f",
+  "creator": {
+    "version": "3.7.4"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk-dev": "^0.0.18"
+  }
+}
