@@ -4,7 +4,6 @@
     "cce:/internal/x/prerequisite-imports": "./chunks/81/81f8328c7be0c220fb61ce3b3d83142aaaeeda06.js",
     "file:///Applications/Cocos/Creator/3.7.4/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/66/66b66e850204b3ee6da410c92dca2f7f34e85947.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataType.ts": "./chunks/41/413e17c3886754bd62736f0f5c8f1d761a317cdb.js",
-    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts": "./chunks/be/be5f54432e01ecce6c05f6edb4e6283e045256c2.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameModel.ts": "./chunks/87/87a910199dc55ef46b3a60b6f9b8e0b0d7074919.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameView.ts": "./chunks/80/80f65f74bc0c6cb5effa205039757726408c3c46.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/MenuController.ts": "./chunks/64/64d6fb6332d509dca25fd85bd386fc610cdc4302.js",
@@ -13,7 +12,8 @@
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts": "./chunks/b3/b3834bc27c0bf7d60d68c99566265c1397c67992.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts": "./chunks/76/768bd13ffe1805a417c2d8e11804ada6cb9eef10.js",
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Loading/Controller.ts": "./chunks/43/43f396758aa41223f532ade50bfa674ddb17c411.js",
-    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts": "./chunks/a2/a200f28a69d7881f37eb4e4b86ffee53ba4ea0ff.js"
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/Splash/Controller.ts": "./chunks/a2/a200f28a69d7881f37eb4e4b86ffee53ba4ea0ff.js",
+    "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts": "./chunks/12/1210379f9df28a5ebd7c25c7f71840196f8d08e0.js"
   },
   "scopes": {
     "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js": {
@@ -43,7 +43,7 @@
       "__unresolved_10": "./chunks/a2/a200f28a69d7881f37eb4e4b86ffee53ba4ea0ff.js",
       "__unresolved_11": "./chunks/b3/b3834bc27c0bf7d60d68c99566265c1397c67992.js",
       "__unresolved_2": "./chunks/76/768bd13ffe1805a417c2d8e11804ada6cb9eef10.js",
-      "__unresolved_3": "./chunks/be/be5f54432e01ecce6c05f6edb4e6283e045256c2.js",
+      "__unresolved_3": "./chunks/12/1210379f9df28a5ebd7c25c7f71840196f8d08e0.js",
       "__unresolved_4": "./chunks/87/87a910199dc55ef46b3a60b6f9b8e0b0d7074919.js",
       "__unresolved_5": "./chunks/80/80f65f74bc0c6cb5effa205039757726408c3c46.js",
       "__unresolved_6": "./chunks/43/43f396758aa41223f532ade50bfa674ddb17c411.js",
@@ -76,13 +76,12 @@
     "./chunks/87/87a910199dc55ef46b3a60b6f9b8e0b0d7074919.js": {
       "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
     },
-    "./chunks/be/be5f54432e01ecce6c05f6edb4e6283e045256c2.js": {
+    "./chunks/12/1210379f9df28a5ebd7c25c7f71840196f8d08e0.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/87/87a910199dc55ef46b3a60b6f9b8e0b0d7074919.js",
       "__unresolved_2": "./chunks/80/80f65f74bc0c6cb5effa205039757726408c3c46.js",
       "__unresolved_3": "./chunks/a2/a200f28a69d7881f37eb4e4b86ffee53ba4ea0ff.js",
-      "__unresolved_4": "./chunks/b3/b3834bc27c0bf7d60d68c99566265c1397c67992.js",
-      "__unresolved_5": "./chunks/76/768bd13ffe1805a417c2d8e11804ada6cb9eef10.js",
+      "__unresolved_4": "./chunks/76/768bd13ffe1805a417c2d8e11804ada6cb9eef10.js",
       "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
     },
     "./chunks/76/768bd13ffe1805a417c2d8e11804ada6cb9eef10.js": {

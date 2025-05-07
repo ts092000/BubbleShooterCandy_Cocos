@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 2953.0684590004385,
+      "mTimestamp": 2953.98362499848,
       "chunkId": "909f786ffe128f06f5aa1b4e1e3fbbd65262915e",
       "imports": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 5514.392041999847,
+      "mTimestamp": 108001.81266700104,
       "chunkId": "81f8328c7be0c220fb61ce3b3d83142aaaeeda06",
       "imports": [
         {
@@ -797,10 +797,10 @@
     },
     "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/GameController.ts": {
       "mTimestamp": {
-        "mtime": 1746470460451.091,
+        "mtime": 1746574832754.0054,
         "uuid": "6e551075-1323-4973-9377-ee30bbef1d73"
       },
-      "chunkId": "be5f54432e01ecce6c05f6edb4e6283e045256c2",
+      "chunkId": "1210379f9df28a5ebd7c25c7f71840196f8d08e0",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -868,22 +868,8 @@
           }
         },
         {
-          "value": "./StoredAPI",
-          "resolved": "__unresolved_4",
-          "loc": {
-            "start": {
-              "line": 7,
-              "column": 26
-            },
-            "end": {
-              "line": 7,
-              "column": 39
-            }
-          }
-        },
-        {
           "value": "./DataUser/DataGame",
-          "resolved": "__unresolved_5",
+          "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 8,
@@ -950,13 +936,6 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/StoredAPI.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
             "url": "file:///Users/ADMIN/Desktop/BubbleShooterCandy_Github/BubbleShooterCandy_Cocos/assets/Scripts/DataUser/DataGame.ts"
           },
           "messages": []
@@ -964,7 +943,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1746471338566,
+      "mTimestamp": 1746574726042,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",

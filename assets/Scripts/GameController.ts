@@ -963,8 +963,8 @@ export class GameController extends Component {
     private async initGame(): Promise<void> {
         let _this = this;
         let parameters = find("GameClient");
-        let gameClientParams = parameters.getComponent(StoredAPI);
-        this.gameClient = gameClientParams.gameClient;
+        // let gameClientParams = parameters.getComponent(StoredAPI);
+        // this.gameClient = gameClientParams.gameClient;
         this.GameView.LoadingText.active = true;
         this.GameView.LoadingAnimNode.active = true;
         this.GameView.LoadingAnim.play();
